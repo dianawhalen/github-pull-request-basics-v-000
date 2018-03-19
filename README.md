@@ -48,7 +48,7 @@ fingers will both grasp what's going on.
 
 1. Suppose you "fork" a repo from `https://github.com/learn-co-students/awesome-lab`.
 2. You now have a _copy_ of that repo on your Github account ("organization") i.e.
-   ``https://github.com/your-user-name/awesome-lab`. Technologists would say
+   ``https://github.com/dianawhalen/awesome-lab`. Technologists would say
    you "forked" the `awesome-lab` repo from the `learn-co-students` organization
    to the `your-user-name` organization.
 3. But you still don't have a *local* copy of this repository on your computer.
@@ -69,7 +69,7 @@ fingers will both grasp what's going on.
 Here's a story:
 
 1. You fork the repository `https://github.com/learn-co-students/awesome-lab`
-   to `https://github.com/your-user-name/awesome-lab`.
+   to `https://github.com/dianawhalen/awesome-lab`.
 1. You make some changes to your newly forked repo.
 1. Another student forks the repository
    `https://github.com/learn-co-students/awesome-lab` as
@@ -103,7 +103,7 @@ Now click Create pull request.
 ### Add Commits To An Existing Pull Request
 
 Let's say you make a pull request from
-`https://github.com/your-user-name/awesome-lab` to
+`https://github.com/dianawhalen/awesome-lab` to
 `https://github.com/learn-co-students/awesome-lab`. Then you notice you made a
 typo in your code. All you have to do is fix the typo, commit it and push up
 the changes to your branch. As long as the pull request already exists, the
